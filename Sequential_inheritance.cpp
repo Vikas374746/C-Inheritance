@@ -32,3 +32,10 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Asian
+Indian - Biryani
+Restaurant: Spice Kitchen
+*/
